@@ -1,2 +1,3 @@
+This is a simple Clojure web application example, which I created. It uses MongoDB as the server, karras as the Clojure mongodb database driver.
 
-This is a simple Clojure web application example, which I created. It uses MongoDB as the server, karras as the Clojure driver.
+
