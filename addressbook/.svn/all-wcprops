@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/75069/research_projects/clojure/addressbook
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/74904/research_projects/clojure/addressbook/.gitignore
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/74907/research_projects/clojure/addressbook/README
+END
+project.clj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/75069/research_projects/clojure/addressbook/project.clj
+END
